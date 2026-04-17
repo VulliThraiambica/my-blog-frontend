@@ -14,6 +14,8 @@ import Editarticle from "./components/Editarticle"
 import {Toaster} from "react-hot-toast"
 import ProtectedRoute from './components/Protectdroute'
 import Unauthorised from "./components/Unauthorised"
+import axios from "axios";
+axios.defaults.withCredentials = true;
 function App() {
 const routerobj= createBrowserRouter([
   {
