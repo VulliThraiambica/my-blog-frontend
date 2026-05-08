@@ -2,6 +2,7 @@
 
 A modern and responsive blog frontend application built using React.js. The application provides an interactive user interface for users and authors to explore, create, and manage blog articles.
 
+
 The frontend communicates with backend REST APIs for authentication, article management, and user interactions.
 
 ---
