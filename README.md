@@ -1,3 +1,36 @@
+# Blog Frontend
+
+A modern and responsive blog frontend application built using React.js. The application provides an interactive user interface for users and authors to explore, create, and manage blog articles.
+
+The frontend communicates with backend REST APIs for authentication, article management, and user interactions.
+
+---
+
+
+##  Features
+
+- User Authentication
+- Author Dashboard
+- Create Blog Articles
+- Edit & Delete Articles
+- View All Blogs
+- Responsive UI Design
+- Protected Routes
+- REST API Integration
+
+---
+
+##  Tech Stack
+
+- React.js
+- React Router
+- Axios
+- Context API
+- Tailwind CSS
+- Vite
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
